@@ -3,49 +3,77 @@
         "id": 1,
         "title": "Passer les tests du chemin vers O'clock",
         "completion": 100,
-        "category_id": 1,
+        "category": {
+            "id": 1,
+            "name": "Chemin vers O'clock",
+            "status": 1
+        },
         "status": 2
     },
     {
         "id": 2,
         "title": "Contacter Pole Emploi",
         "completion": 100,
-        "category_id": 1,
+        "category": {
+            "id": 1,
+            "name": "Chemin vers O'clock",
+            "status": 1
+        },
         "status": 2
     },
     {
         "id": 3,
         "title": "Acheter du pain",
         "completion": 0,
-        "category_id": 2,
+        "category": {
+            "id": 2,
+            "name": "Courses",
+            "status": 1
+        },
         "status": 1
     },
     {
         "id": 4,
         "title": "Survivre à la première saison",
         "completion": 100,
-        "category_id": 3,
+        "category": {
+            "id": 3,
+            "name": "O'clock",
+            "status": 1
+        },
         "status": 1
     },
     {
         "id": 5,
         "title": "Maitriser les bases de la programmation informatique",
         "completion": 100,
-        "category_id": 3,
+        "category": {
+            "id": 3,
+            "name": "O'clock",
+            "status": 1
+        },
         "status": 1
     },
     {
         "id": 6,
         "title": "Rédiger mes dossiers de Titre Professionnel",
         "completion": 0,
-        "category_id": 4,
+        "category": {
+            "id": 4,
+            "name": "Titre Professionnel",
+            "status": 1
+        },
         "status": 1
     },
     {
         "id": 7,
         "title": "Présenter mon projet au jury bienveillant",
         "completion": 0,
-        "category_id": 4,
+        "category": {
+            "id": 4,
+            "name": "Titre Professionnel",
+            "status": 1
+        },
         "status": 1
     }
 ]
